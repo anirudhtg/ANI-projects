@@ -1,2 +1,2 @@
-# prodigy-projects
-internship
+# ANI PROJECTS 
+PERSONAL PROJECTS
